@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "AppDemo"
+rootProject.name = "TK_APP"
 include(":app")
  
